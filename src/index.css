@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media(max-width:750px){
+     .flex-to-inline{
+        display: inline;
+     }
+     .profile-btn{
+        margin-left:43%;
+     }
+}
+@media(max-width:500px){
+    .second-row-div{
+        width:85%;
+    }
+}
+@media (max-width:470px){
+    .second-row-div{
+        border:none;    
+        
+    }
+}
