@@ -6,9 +6,7 @@
      .flex-to-inline{
         display: inline;
      }
-     .profile-btn{
-        margin-left:43%;
-     }
+     
 }
 @media(max-width:500px){
     .second-row-div{
